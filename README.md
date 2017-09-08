@@ -1,1 +1,1 @@
-# deploy-to-heroku
+# Demo how to deploy to Heroku
